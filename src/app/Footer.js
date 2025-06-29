@@ -15,7 +15,7 @@ export default function Footer() {
           <div className="w-full md:w-1/2 lg:w-2/5 xl:w-1/3 mb-8">
             <div className="mb-6">
               <a href="/" className="inline-block mb-4">
-                <img src="/images/cmg.png" alt="Logo" className="h-14" />
+                <img src="/images/Cmg.png" alt="Logo" className="h-14" />
               </a>
               <p className="text-white/90 mb-4">
                 Lorem ipsum dolor serit amet, consetetur sadipscing elitr, sed

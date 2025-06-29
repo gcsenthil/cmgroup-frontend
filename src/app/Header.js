@@ -17,7 +17,7 @@ export default function Header() {
         <div className="container mx-auto flex items-center justify-between py-3 px-4">
           <a href="/" className="flex items-center space-x-3">
             <img
-              src="/images/cmg.png"
+              src="/images/Cmg.png"
               alt="Logo"
               style={{ width: "50px", height: "50px", objectFit: "contain" }}
               className="block"

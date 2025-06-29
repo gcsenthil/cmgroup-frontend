@@ -204,7 +204,7 @@ export default function WhatWeDo() {
           <span className="uppercase tracking-widest text-[#ec821e] font-bold text-sm">
             What We Do
           </span>
-          <h2 className="text-3xl md:text-4xl font-extrabold text-[#df8733] mb-4 mt-2">
+          <h2 className="text-3xl md:text-4xl font-extrabold text-[#2d2d2d] mb-4 mt-2">
             What We Provide for Your Health
           </h2>
           <p className="text-gray-700 text-base md:text-lg">

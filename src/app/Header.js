@@ -13,7 +13,7 @@ export default function Header() {
   return (
     <>
       <header
-        className={`top-0 left-0 w-full transition-colors duration-500 ${headerBg}`}
+        className={`top-0 left-0 w-full transition-colors duration-500 shadow-xl border-b-2 border-[#df8733] z-50 ${headerBg}`}
       >
         <div className="container mx-auto flex items-center justify-between py-3 px-4">
           <a href="/" className="flex items-center space-x-1">

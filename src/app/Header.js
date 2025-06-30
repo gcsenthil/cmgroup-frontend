@@ -7,7 +7,8 @@ export default function Header() {
 
   // Always use the same background for all pages
   const headerBg =
-    "bg-gradient-to-r from-[#ffb347] via-[#ffcc33] to-[#ff7e5f] shadow-lg";
+    //"bg-gradient-to-r from-[#ffb347] via-[#ffcc33] to-[#ff7e5f] shadow-lg";
+    "bg-[#fff7ed]";
 
   return (
     <>
@@ -15,7 +16,7 @@ export default function Header() {
         className={`top-0 left-0 w-full transition-colors duration-500 ${headerBg}`}
       >
         <div className="container mx-auto flex items-center justify-between py-3 px-4">
-          <a href="/" className="flex items-center space-x-3">
+          <a href="/" className="flex items-center space-x-1">
             <img
               src="/images/Cmg.png"
               alt="Logo"
